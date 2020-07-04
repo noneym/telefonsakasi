@@ -18,10 +18,10 @@ h2.page_title{color:#ffffff;}
 /*------------------------------------------*/
 #menu{ width:100%; padding:0px;margin:0px 0 50px 0;}
 #menu ul{ list-style:none; padding:0px; margin:0px; width:100%;}
-#menu ul li{ list-style:none; margin:1% 0 2% 4%; padding:5.5% 0; width:28%;height:auto; float:left; display:block; text-align:center; background-color:#ffffff;-webkit-border-radius: 200px;-moz-border-radius: 200px;border-radius: 200px;}
+#menu ul li{ list-style:none; height: 121px; margin:1% 0 2% 4%; padding:5.5% 0; width:28%;height:auto; float:left; display:block; text-align:center; background-color:#ffffff;-webkit-border-radius: 200px;-moz-border-radius: 200px;border-radius: 200px;}
 #menu ul li a{ color:#000000; text-decoration:none;  text-align: center;} 
 #menu ul li a span{ display:block; text-align:center; font-size:11px; line-height:15px;}
-#menu ul li img{ display:inline-block;max-width:50%;}
+#menu ul li img{ display:inline-block;max-width:70%;}
 
 .sliderbg_menu{background-color: #01a0e2;}
 .sliderbg{ background-color:#01a0e2;}
@@ -103,11 +103,11 @@ a.map_button{ background:url(../../images/icons/map_pin.png) no-repeat left #29a
 /* CSS Media Queries
 /*-----------------------------------------------------------------------------------*/
 @media screen and (max-width: 480px) {
-#menu ul li{  padding:5% 0%;width:28.5%;margin:1% 0 2% 3.5%;}
+#menu ul li{  height: 121px; padding:5% 0%;width:28.5%;margin:1% 0 2% 3.5%;}
 }
 @media screen and (max-width: 360px) {
-#menu ul li{  padding:4.6% 0.3%;width:28.5%;margin:1% 0 2% 3.2%;}
+#menu ul li{  height: 121px; padding:4.6% 0.3%;width:28.5%;margin:1% 0 2% 3.2%;}
 }
 @media screen and (max-width: 320px) {
-#menu ul li{  padding:4.1% 0.1%;width:28.5%;margin:1% 0 2% 3.5%;}
+#menu ul li{  height: 121px; padding:4.1% 0.1%;width:28.5%;margin:1% 0 2% 3.5%;}
 }
