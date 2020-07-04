@@ -1,4 +1,4 @@
-body{color:#ffffff;background-color:#1f1f1f;}
+body{color:#ffffff;background-color:#01a0e2;}
 a, span.tag{color:#7f7f7f;}
 a.view_details{ background:url(images/bullet_cross.png) no-repeat left; }
 a.button_11, a.button_12{color:#FFFFFF;}
@@ -18,17 +18,17 @@ h2.page_title{color:#ffffff;}
 /*------------------------------------------*/
 #menu{ width:100%; padding:0px;margin:0px 0 50px 0;}
 #menu ul{ list-style:none; padding:0px; margin:0px; width:100%;}
-#menu ul li{ list-style:none; margin:1% 0 2% 4%; padding:5.5% 0; width:28%;height:auto; float:left; display:block; text-align:center; background-color:#444444;-webkit-border-radius: 200px;-moz-border-radius: 200px;border-radius: 200px;}
-#menu ul li a{ color:#FFFFFF; text-decoration:none;  text-align: center;} 
+#menu ul li{ list-style:none; margin:1% 0 2% 4%; padding:5.5% 0; width:28%;height:auto; float:left; display:block; text-align:center; background-color:#ffffff;-webkit-border-radius: 200px;-moz-border-radius: 200px;border-radius: 200px;}
+#menu ul li a{ color:#000000; text-decoration:none;  text-align: center;} 
 #menu ul li a span{ display:block; text-align:center; font-size:11px; line-height:15px;}
 #menu ul li img{ display:inline-block;max-width:50%;}
 
-.sliderbg_menu{background-color: #1f1f1f;}
-.sliderbg{ background-color:#1f1f1f;}
+.sliderbg_menu{background-color: #01a0e2;}
+.sliderbg{ background-color:#01a0e2;}
 
 .scrolltop{ background-color:#000000;}
-.gohome{ background-color:#1f1f1f;}
-.gomenu{ background-color:#1f1f1f;}
+.gohome{ background-color:#01a0e2;}
+.gomenu{ background-color:#01a0e2;}
 
 .pages_container{ margin:60px 2.5%; padding:20px 2.5%; width:90%;}
 
