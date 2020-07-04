@@ -1,0 +1,10 @@
+{
+  "cordova-plugin-purchase": {
+    "source": {
+      "type": "registry",
+      "id": "git://github.com/j3k0/PhoneGap-InAppPurchase-iOS.git"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
