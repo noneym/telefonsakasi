@@ -15,6 +15,8 @@ a.view_details{padding:0 0 0 15px;}
 #wrapper{ width:800px;height:100%;margin:0 auto;position:relative;}
 #content{ width:100%;height:100%;}
 #header{ position:fixed; top:0px; left:0px; z-index:9999; width:100%; height:40px;padding:6px 0%;}
+#footer{ position:fixed; top:93%; left:0px; z-index:9999; width:100%; height:40px;padding:6px 0%; height: 100px; 
+background-color: #444444; color: #FFFFFF;}
 
 /* Headings
 /*------------------------------------------*/
@@ -36,7 +38,8 @@ h2.post_title{ font-size:26px;padding:0 0 20px 0; line-height:28px;}
 .radius20{-webkit-border-radius:20px;-moz-border-radius:20px;border-radius:20px;}
 
 /*----------header and footer buttons---------------*/
-.gohome{ width:40px; height:40px; float:left; margin:0 0 0 10px;}
+.gohome{ width:134px; height:28px; float:left; margin:6px 0 0 10px; line-height: 24px; text-align: center;}
+
 .gohome a{ color:#FFFFFF; text-decoration:none; font-weight:bold; font-size:12px; display:block; text-align:center;}
 .gohome a img{display:inline-block;max-height:25px; margin:5px 0 0 0;}
 
@@ -44,8 +47,8 @@ h2.post_title{ font-size:26px;padding:0 0 20px 0; line-height:28px;}
 .gohomemenu a{ color:#FFFFFF; text-decoration:none; font-weight:bold; font-size:12px; display:block; text-align:center;}
 .gohomemenu a img{display:inline-block;max-height:25px; margin:7px 0 0 0;}
 
-.gomenu{ width:40px; height:40px;float:right;margin:0 10px 0 0;}
-.gomenu a{ color:#FFFFFF; text-decoration:none; font-weight:bold; font-size:12px; display:block; text-align:center;}
+.gomenu{ width:118px; height:40px;float:right;margin:0 10px 0 0;}
+.gomenu a{ color:#FFFFFF; text-decoration:none; font-weight:bold; font-size:12px; display:block; text-align:center;  padding-top: 1px;}
 .gomenu a img{display:inline-block;max-height:25px; margin:6px 0 0 0;}
 
 .scrolltop{ width:40px; height:40px;margin:auto; display:block;}
